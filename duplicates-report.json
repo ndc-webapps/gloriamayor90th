@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-07-14T13:27:48.531Z",
+  "totalScanned": 293,
+  "unreadable": 0,
+  "kept": 293,
+  "duplicatesSkipped": 0,
+  "note": "Duplicates are only SKIPPED from the website. No original file was deleted.",
+  "rules": {
+    "exactHash": true,
+    "nameAndSize": true,
+    "perceptual": false,
+    "perceptualThreshold": 6
+  },
+  "duplicates": []
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "antieglorie90th",
+    "name": "Gloria's 90th Birthday",
+    "folderPath": "AntieGlorie90th",
+    "cover": "/photos/thumbnails/antieglorie90th/662a8c02d0f2.webp",
+    "coverSrc": "/photos/large/antieglorie90th/662a8c02d0f2.webp",
+    "count": 234,
+    "blurb": "Memories from Gloria's 90th Birthday"
+  },
+  {
+    "id": "antieglorie90th-with-frame",
+    "name": "With Frame",
+    "folderPath": "AntieGlorie90th With Frame",
+    "cover": "/photos/thumbnails/antieglorie90th-with-frame/e37b1bd5b50c.webp",
+    "coverSrc": "/photos/large/antieglorie90th-with-frame/e37b1bd5b50c.webp",
+    "count": 59,
+    "blurb": "Memories from With Frame"
+  }
+]
